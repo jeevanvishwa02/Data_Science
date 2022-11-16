@@ -1,4 +1,4 @@
-# This folder consists of all files regarding any competitions/projects and practice questions
+### This folder consists of all files regarding any competitions/projects and practice questions
 
 Auto_Insurance_Customer_Classification.ipynb - Traveler's competition notebook to classify customers who could possible covert the quote shared
 
